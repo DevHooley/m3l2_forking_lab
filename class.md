@@ -1,0 +1,3 @@
+kyle 
+Chicago
+Frontend - Development 
